@@ -11,10 +11,14 @@ Using Plotly.js, the purpose of this project is to create an interactive data vi
 - Learned how to interactively enhance data visualizations
 - Deployed an interactive chart to Github pages.
 
-## Deliverable 1: Create a Horizontal Bar Chart
+#### Deliverable 1: Create a Horizontal Bar Chart
+![Image of *Sample* 946 on a horizontal bar chart](/Resources/barz.png)
 
-## Deliverable 2: Create a Bubble Chart
+#### Deliverable 2: Create a Bubble Chart
+![Image of *Sample* 946 on a bubble chart](/Resources/bubbles.png)
 
-## Deliverable 3: Create a Gauge Chart
+#### Deliverable 3: Create a Gauge Chart
+![Image of *Sample* 946's gauge chart](/Resources/gauge.png)
 
-## Deliverable 4: Customize the Dashboard
+#### Deliverable 4: Customize the Dashboard
+![Image of *Sample* 946's dashboard chart](/Resources/dashboard.png)
