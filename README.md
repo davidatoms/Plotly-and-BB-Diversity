@@ -1,7 +1,7 @@
 # Plotly-and-BB-Diversity
 Using Plotly.js, the purpose of this project is to create an interactive data visualization for the web.
 
-## What I Achieved:
+## What I Achieved/Learned:
 - Created basic plots with Plotly, including bar charts, line charts, and pie charts.
 - Used D3.json() to fetch external data, such as CSV files and web APIs.
 - Parsed data in JSON format.
